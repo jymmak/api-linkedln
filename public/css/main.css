@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+background-color: yellowgreen;
+}
+
+.border {
+  border: 2px solid white;
+  padding: 10px;
+  border-radius: 5px;
+ margin-left: 20%;
+ 
+}
+
+p{
+  text-align: justify;
+  margin-left: 20%;
+  margin-top: 2%;
+  font-size: 1.1rem;
+}
+/*phones*/
+@media (min-width: 0) and (max-width: 767px) {
+  p{
+    text-align: justify;
+    margin-left: 6%;
+    margin-top: 2%;
+    font-size: 1rem;
+  }
+  .border {
+    border: 2px solid white;
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 2%;
+    margin-bottom: 9%;
+  }
+  .img-responsive{
+   width: 80%;
+   height: 50vh;
+   align-items: center;
+  }
+}
