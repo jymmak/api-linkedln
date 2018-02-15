@@ -8,7 +8,7 @@ window.addEventListener('load', function() {
   $('#btn').on('click', function() {
     IN.User.logout(logout);
     function logout() {
-      window.location.href = '../index.html';
+      window.location.href = 'views/nex.html';
     }
   });
 });

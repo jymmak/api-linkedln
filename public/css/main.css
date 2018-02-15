@@ -14,7 +14,30 @@ background-color: yellowgreen;
  margin-left: 20%;
  
 }
+a {
+  text-decoration: none;
+}
+.user-box {
+  background-color: #2E9AFE;
+  border-radius: 5px;
+  padding: 20px;
+}
+.btn {
+  border: none;
+  border-radius: 5px;
+  padding: 8px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  margin-top: 20px;
+}
 
+
+
+.bg-green {
+  background-color: #008080;
+  border: 2px solid white
+}
 p{
   text-align: justify;
   margin-left: 20%;
