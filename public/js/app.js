@@ -1,4 +1,3 @@
-// Setup an event listener to make an API call once auth is complete
 window.addEventListener('load', function () {
   IN.Event.on(IN, 'auth', getProfileData);
 

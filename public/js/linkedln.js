@@ -1,4 +1,3 @@
-
 window.addEventListener('load', function() {
   let userName = window.localStorage.getItem('user-name');
   let headline = window.localStorage.getItem('headline');
