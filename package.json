@@ -1,0 +1,24 @@
+{
+  "name": "api-linkedln",
+  "version": "1.0.0",
+  "description": "> Recuerda seguir siempre esta [guía de estilos](https://github.com/Laboratoria/js-style-guide/)",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jymmak/api-linkedln.git"
+  },
+  "author": "Jymma Mogollon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jymmak/api-linkedln/issues"
+  },
+  "homepage": "https://github.com/jymmak/api-linkedln#readme"
+}
