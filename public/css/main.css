@@ -3,9 +3,6 @@
   padding: 0;
   box-sizing: border-box;
 }
-body{
-background-color: yellowgreen;
-}
 
 .border {
   border: 2px solid white;
@@ -18,9 +15,10 @@ a {
   text-decoration: none;
 }
 .user-box {
-  background-color: #2E9AFE;
+ 
   border-radius: 5px;
   padding: 20px;
+  height: 100vh;
 }
 .btn {
   border: none;
@@ -36,7 +34,8 @@ a {
 
 .bg-green {
   background-color: #008080;
-  border: 2px solid white
+  border: 2px solid white;
+  margin-top: 20%;
 }
 p{
   text-align: justify;
