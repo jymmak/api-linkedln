@@ -1,4 +1,4 @@
-window.addEventListener('load', function () {
+window.addEventListener('load', function() {
   IN.Event.on(IN, 'auth', getProfileData);
 
   function onSuccess(data) {
