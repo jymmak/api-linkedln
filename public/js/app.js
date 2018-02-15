@@ -20,3 +20,4 @@ window.addEventListener('load', function() {
     IN.API.Raw('/people/~').result(onSuccess).error(onError);
   }
 });
+

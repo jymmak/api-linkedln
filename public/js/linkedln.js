@@ -5,11 +5,5 @@ window.addEventListener('load', function() {
   $('#user').text('Welcome ' + userName);
   $('#headline').text(headline);
   $('#url').attr('href', url);
-  $('button ').on('click', function() {
-    IN.User.logout(logout);
-    function logout() {
-      window.location.href = 'views/index.html';
-    }
-  });
+ 
 });
-

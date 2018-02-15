@@ -20,7 +20,7 @@ a {
   padding: 20px;
   height: 100vh;
 }
-.btn-greeblue {
+.btn {
   border: none;
   border-radius: 5px;
   padding: 8px;
@@ -28,7 +28,6 @@ a {
   font-weight: bold;
   font-size: 18px;
   margin-top: 20px;
-  
 }
 
 
