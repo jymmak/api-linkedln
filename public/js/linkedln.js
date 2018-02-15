@@ -5,5 +5,4 @@ window.addEventListener('load', function() {
   $('#user').text('Welcome ' + userName);
   $('#headline').text(headline);
   $('#url').attr('href', url);
- 
 });
